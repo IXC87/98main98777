@@ -1,6 +1,17 @@
 [
 {
 "genre": "Drama, Mature, Romance",
+"image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ4TqdSlHAhG_FjklfALKyIzw_LOQiso04WxIwZmgzDRzMKD1ws86CXtBweXszyncpGVEyv3TBzriro55rjiAlkicBgAvnQPvdchJmIZPouHSPMaj2avtd9APj0wMAM_gjyQmWK_bJASkscmNG9OWaZ3RM9Mte-MN7KSg8L_G3SjbFrZePjfK0H4pBi_0/s0/The-Neighborhood-Celebrity-manhwa-224x320.jpg",
+"link": "https://raw.githubusercontent.com/IXC87/98data87578asdf/main/data/celeb_next_door/",
+"rating": "4.2",
+"review": "Jihyuk, who started living alone with a strong ambition. From the beginning, he suffered a sad(?) accident that touched the chest of a woman in his neighbor’s house and was filmed as a perv from the first meeting. Leaving upset behind, I’m looking at the sexy pictorial of SNS stars with my college colleagues. Huh? Why are neighbors coming out from there?",
+"series_id": "0177",
+"admob_id" : "testhousekeeper",
+"status": "ongoing",
+"title": "Celeb Next Door"
+},
+{
+"genre": "Drama, Mature, Romance",
 "image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw7ks96NQnDeTMji4wqAir01FARz6cC3kKl8XxVNLleUKuK_fDHTPpBiFzpWKxHC8ySkO5j9PxpiJ4PFEoHGoTjWu7jXJZbeKtRUREjPHhyphenhyphen5LJBtcN85pKa-enkW1VoZScSxY9G7amnlct_euwXCKMy9XDcomw86HsIEab6330RehgAyHoLyKbC8ouEiY/s0/Anything-Goes-toomics-free-manhwa-224x320.jpg",
 "link": "https://raw.githubusercontent.com/IXC87/98data87578asdf/main/data/anthing_goes/",
 "rating": "3.9",
@@ -117,7 +128,7 @@
 "review": "The story of a woman and a curse that leads men to their death, will she be able to find happiness?",
 "series_id": "0166",
 "admob_id" : "testhousekeeper",
-"status": "ongoing",
+"status": "completed",
 "title": "A Killer Woman"
 },
 {
