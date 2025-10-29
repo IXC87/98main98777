@@ -1,6 +1,28 @@
 [
 {
 "genre": "Drama, Mature, Romance",
+"image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoykaoGiEw2oFC8aVAkKqP2Vw4ZNirXshuQkXOK4fXsXoENzL36cxwbslRpNFXhtsMr9S6WUVpnuF1-akROFsUz0jP6d7J7YfzE6vFkXLccjc3y3Rfb5MZsQoaHBVr2zEiNK0T_CgCWIKm9XPEjnbpE1sYQsp2-x2rspfK8koJwVbswU4M1CxbMqI8GRY/s0/gangnam-romance-cover.jpg",
+"link": "https://raw.githubusercontent.com/IXC87/98data87578asdf/main/data/gangnam_romance/",
+"rating": "4.0",
+"review": "Countless girls enter this industry for money. Do you think you can really find love here?",
+"series_id": "0199",
+"admob_id" : "testhousekeeper",
+"status": "ongoing",
+"title": "Gangnam Romance"
+},
+{
+"genre": "Drama, Mature, Romance",
+"image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKEIBk1vCZgXPIBv1WOX38N5MJBJJn1nigKvVTJFt8z6WADQEMl3594lpqRHdGsohfdPsVor02j-_wSsOqzCLpWt7OHHd93RGTL-O0b7yiti7KwTs3uZiAuz6N_pW18mvJ3oSdg4TuzhCvB6WMdXVdN-5WcEhEgP_TRbGu1mG8hzlS8ln-lUVdK_463C4/s0/1-tall-224x320.jpg",
+"link": "https://raw.githubusercontent.com/IXC87/98data87578asdf/main/data/not_friends/",
+"rating": "4.1",
+"review": "Christmas Eve, at the age of 21. Geonwoo is asked to spend Christmas Eve together by his childhood friend, Haru.",
+"series_id": "0198",
+"admob_id" : "testhousekeeper",
+"status": "ongoing",
+"title": "Not Friends"
+},
+{
+"genre": "Drama, Mature, Romance",
 "image_small": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ62lQWXBk1wxvVlWYq21Ocd7_SDVA02DT5_yFdqe-SQvMhK6QCnDZ2fXmYloERKWlw_HHu_-aiOmIaLMVfmxuxZrJBg79__EaowV8jjv-goqG-BqIF6DIiq-nCXjo9AQ3fp67J9zly8hcXV_xBflDtgFEnMHU3dH1r5nYmvw4cilV9BshEXX8Pg6qBAE/s0/title@2x-224x320.jpg",
 "link": "https://raw.githubusercontent.com/IXC87/98data87578asdf/main/data/the_intention_of_neigh/",
 "rating": "3.8",
@@ -62,7 +84,7 @@
 "review": "When your dad brings home a significantly younger woman to introduce her as your new stepmother, it’s pretty normal to disapprove of the whole deal. And it’s pretty standard to hate this new woman invading your household.",
 "series_id": "0192",
 "admob_id" : "testhousekeeper",
-"status": "ongoing",
+"status": "completed",
 "title": "My New Girlfriend Is My Stepmother"
 },
 {
@@ -183,7 +205,7 @@
 "review": "The people at Cheongyeon female prison, no matter who, are evil and greedy. While working as a correctional officer here, the naive male Woojin finds a flower-like girl in this sewer-like place…",
 "series_id": "0181",
 "admob_id" : "testhousekeeper",
-"status": "ongoing",
+"status": "completed",
 "title": "Locked Up"
 },
 {
